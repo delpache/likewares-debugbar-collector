@@ -1,5 +1,5 @@
 {
-    "name": "likewares/laravel-likewares-collector",
+    "name": "likewares/likewares-debugbar-collector",
     "description": "Package Laravel Debugbar collector pour Likewares CRM",
     "keywords": [
         "likewares",

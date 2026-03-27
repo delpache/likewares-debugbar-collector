@@ -7,7 +7,7 @@ Ce paquet a pour but de fournir des informations supplémentaires sur l'installa
 Vous pouvez installer le paquet via composer :
 
 ```bash
-composer require likewares/laravel-debugbar-collector
+composer require likewares/likewares-debugbar-collector
 ```
 
 ## License
